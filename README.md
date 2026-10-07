@@ -41,6 +41,9 @@ Hello there! I'm Harsh Kumar, a B.Tech Computer Science student who enjoys build
   </a>
 </div>
 
-## 📈 Contribution Graph
+## 📈 Activity
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=pvt-harsh&hide_border=true&bg_color=0d1117&color=ffffff&line=ff4d4d&point=ff4d4d)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pvt-harsh&theme=github_dark" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pvt-harsh&theme=github_dark&utcOffset=8" alt="Productive time" />
+</div>
