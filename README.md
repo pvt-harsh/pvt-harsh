@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img height="28" src="https://visitor-badge.laobi.icu/badge?page_id=pvt-harsh.pvt-harsh&left_color=%230d1117&right_color=%237f1d1d&left_text=Profile%20views" alt="Profile views" />
-  <img height="28" src="https://img.shields.io/github/followers/pvt-harsh?style=for-the-badge&logo=github&labelColor=0d1117&color=0d1117" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=pvt-harsh&label=Profile+views&color=7f1d1d&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/pvt-harsh?style=for-the-badge&logo=github&labelColor=0d1117&color=0d1117" alt="GitHub followers" />
 </div>
 
 ---
