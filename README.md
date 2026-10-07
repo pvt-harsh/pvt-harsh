@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pvt-harsh&label=Profile+views&color=7f1d1d&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pvt-harsh?style=for-the-badge&logo=github&labelColor=0d1117&color=0d1117" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/pvt-harsh?style=for-the-badge&logo=github&labelColor=0d1117&color=7f1d1d" alt="GitHub followers" />
 </div>
 
 ---
