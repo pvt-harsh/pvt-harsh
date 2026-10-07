@@ -1,39 +1,46 @@
 ![Banner](./banner.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=E8B84B&center=true&vCenter=true&width=600&lines=Hi+%2C+I%27m+Harsh+Kumar;B.Tech+Computer+Science+Student;React+%2B+JavaScript+Developer;I+build+MetaTrack" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=E8B84B&center=true&vCenter=true&width=620&lines=Hi+%2C+I%27m+Harsh+Kumar;B.Tech+Computer+Science+Student;React+%2B+JavaScript+Developer;I+build+MetaTrack" alt="Typing intro" />
 </div>
 
-## 📌 About me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pvt-harsh&label=Profile%20views&color=0d1117&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/pvt-harsh?style=for-the-badge&logo=github&labelColor=0d1117&color=0d1117" alt="GitHub followers" />
+</div>
 
-Hello there! I'm Harsh Kumar, a B.Tech Computer Science student who enjoys building with modern web technologies. Currently working on **MetaTrack**, a cryptocurrency tracking platform, and always exploring new tools and ideas.
+---
+
+### 👨‍💻 About Me
+
+Hello there! I'm **Harsh Kumar**, a B.Tech Computer Science student who enjoys building with modern web technologies. Currently working on **MetaTrack**, a cryptocurrency tracking platform, and always exploring new tools and ideas.
 
 - 🎓 B.Tech Computer Science student
-- 🔭 Currently building **MetaTrack** — crypto tracking with React + CoinGecko API
+- 🔭 Building **MetaTrack** — crypto tracking with React + CoinGecko API
 - 🌱 Exploring full-stack development, Supabase, and clean frontend architecture
 - 💬 Ask me about React, Vite, and JavaScript
 
-## 🛠️ Technologies
+### 🛠️ Tech Stack
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,supabase,git,github&theme=dark" alt="Tech stack" />
 </div>
 
-## 📊 Statistics
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pvt-harsh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ff4d4d" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=pvt-harsh&hide_border=true&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4D4D&sideLabels=C9D1D9&dates=C9D1D9" alt="Streak stats" />
 </div>
+
+### 📈 Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pvt-harsh&theme=github_dark" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pvt-harsh&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+</div>
+
+### 🚀 Featured Project
 
 <div align="center">
   <a href="https://github.com/pvt-harsh/Meta-Track">
@@ -41,9 +48,6 @@ Hello there! I'm Harsh Kumar, a B.Tech Computer Science student who enjoys build
   </a>
 </div>
 
-## 📈 Activity
+**MetaTrack** — a modern cryptocurrency tracking website: live CoinGecko markets, watchlists, portfolio tracking, price alerts, asset comparison, multi-currency support, and a full account system with Google sign-in via Supabase.
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pvt-harsh&theme=github_dark" alt="Profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pvt-harsh&theme=github_dark&utcOffset=5.5" alt="Productive time" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7f1d1d&height=110&section=footer" width="100%" alt="Footer" />
