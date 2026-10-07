@@ -38,8 +38,7 @@ Hello there! I'm **Harsh Kumar**, a B.Tech Computer Science & Engineering studen
 ### 📈 Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pvt-harsh&theme=github_dark" alt="Profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pvt-harsh&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+  <img src="./activity.svg" alt="Contribution activity heatmap" />
 </div>
 
 ### 🚀 Featured Project
