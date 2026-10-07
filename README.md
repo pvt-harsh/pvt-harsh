@@ -1,29 +1,31 @@
 ![Banner](./banner.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=E8B84B&center=true&vCenter=true&width=620&lines=Hi+%2C+I%27m+Harsh+Kumar;B.Tech+Computer+Science+Student;React+%2B+JavaScript+Developer;I+build+MetaTrack" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=E8B84B&center=true&vCenter=true&width=620&lines=Hi+%2C+I%27m+Harsh+Kumar;B.Tech+Computer+Science+Student;Java+%2B+React+Developer;I+build+things+that+work" alt="Typing intro" />
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pvt-harsh.pvt-harsh&left_color=%230d1117&right_color=%237f1d1d&left_text=Profile%20views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pvt-harsh?style=for-the-badge&logo=github&labelColor=0d1117&color=0d1117" alt="GitHub followers" />
+  <img height="28" src="https://visitor-badge.laobi.icu/badge?page_id=pvt-harsh.pvt-harsh&left_color=%230d1117&right_color=%237f1d1d&left_text=Profile%20views" alt="Profile views" />
+  <img height="28" src="https://img.shields.io/github/followers/pvt-harsh?style=for-the-badge&logo=github&labelColor=0d1117&color=0d1117" alt="GitHub followers" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hello there! I'm **Harsh Kumar**, a B.Tech Computer Science student who enjoys building with modern web technologies. Currently working on **MetaTrack**, a cryptocurrency tracking platform, and always exploring new tools and ideas.
+Hello there! I'm **Harsh Kumar**, a B.Tech Computer Science & Engineering student (2023–2027) at Technocrats Institute of Technology, Bhopal. I build full-stack applications — from Spring Boot backends to React frontends.
 
-- 🎓 B.Tech Computer Science student
-- 🔭 Building **MetaTrack** — crypto tracking with React + CoinGecko API
-- 🌱 Exploring full-stack development, Supabase, and clean frontend architecture
-- 💬 Ask me about React, Vite, and JavaScript
+- 💼 **Java Programming Intern** @ Ramraj Technology Solutions — 40+ JUnit/Mockito tests, PostgreSQL schema design with JPA/Hibernate
+- 🏢 **Technology Job Simulation** @ Deloitte — user stories, sprint prototypes, technical design
+- 🚀 **MetaTrack** — real-time crypto dashboard (React, Vite, CoinGecko API): markets, watchlists, portfolio, alerts
+- 📱 **ClubFit** — cross-platform gym management app (React Native, Firebase) for 150+ members; led a 4-member team
+- 🧠 250+ DSA problems solved · 5★ HackerRank Problem Solving
+- 👥 Core member, Coding Club — mentored 60+ juniors in DSA
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,supabase,git,github&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,js,react,vite,nodejs,postgres,mysql,mongodb,firebase,supabase,html,css,git,github&theme=dark" alt="Tech stack" />
 </div>
 
 ### 📊 GitHub Stats
