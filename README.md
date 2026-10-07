@@ -1,7 +1,7 @@
-![Banner](./4526d2a65980018b807df679d65edfd4.jpg)
+![Banner](./banner.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=Hi+%2C+I%27m+Harsh+Kumar;B.Tech+Computer+Science+Student;React+%2B+JavaScript+Developer;I+build+MetaTrack" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=E8B84B&center=true&vCenter=true&width=600&lines=Hi+%2C+I%27m+Harsh+Kumar;B.Tech+Computer+Science+Student;React+%2B+JavaScript+Developer;I+build+MetaTrack" alt="Typing intro" />
 </div>
 
 ## 📌 About me
